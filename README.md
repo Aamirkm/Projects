@@ -1,0 +1,4 @@
+This project determines whether the state’s districts are gerrymandered, according to researchers’ definition. 
+The input data about states’ districts and total voters comes from two input files. 
+Implementation of load, search, plot, and stats functions allows interaction with the database and 
+displays information based off what was collected from the files.
