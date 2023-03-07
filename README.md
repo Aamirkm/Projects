@@ -1,0 +1,1 @@
+A focus of this project was to practice creating test cases. The project defines a class mymatrix<T> explicitly designed to support a 2D data structure. Like vector<T>, it can grow dynamically in terms of rows and columns. The class supports matrix multiplication through operator overloading and other functionalities.
