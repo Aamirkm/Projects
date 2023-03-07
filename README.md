@@ -1,0 +1,3 @@
+Using the set abstraction to build a music library search engine that can find album titles that match a user's query in addition to implementing some basic library interactions. 
+
+This is a simplified version of a music library as strips away graphical interfaces and some of the interactions that might seem useful to help pair down the project. In this version, the music database files will have album titles, artists, and songs. Every music data file is set up the same way, and the system has a series of commands to interact with the data files (load & export) as well as display information about the data once it is in the program.
